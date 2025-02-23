@@ -1,4 +1,3 @@
-# main.py - Entry point for the game
 import arcade
 from classes.start_view import StartView
 from classes.card_pack_opener_window import CardPackOpenerWindow
